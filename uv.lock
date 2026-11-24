@@ -1,0 +1,8 @@
+version = 1
+revision = 3
+requires-python = ">=3.11.5, <3.12"
+
+[[package]]
+name = "stat-486-lab-09"
+version = "0.1.0"
+source = { virtual = "." }
